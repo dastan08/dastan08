@@ -37,3 +37,25 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,aws,git,linux&perline=7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 </p>
+
+
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=dastan08&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=dastan08&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <i>Consistently building, learning and contributing.</i>
+</p>
