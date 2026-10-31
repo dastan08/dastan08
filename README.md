@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,python,ts,sql&perline=6" />
+</p>
+
+### Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka&perline=6" />
+</p>
+
+### Frontend & Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,flutter,tailwind&perline=6" />
+</p>
+
+### Databases & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,oracle,docker,kubernetes,aws,git,linux&perline=7" />
+</p>
