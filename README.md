@@ -55,7 +55,7 @@ Building scalable backend systems, intelligent applications, and tools that solv
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack.svg"
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack-marquee.gif"
     width="100%"
     alt="Animated Technology Stack"
   />
