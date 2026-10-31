@@ -59,3 +59,85 @@ Here are some ideas to get you started:
 <p align="center">
   <i>Consistently building, learning and contributing.</i>
 </p>
+
+
+
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🧮 CypherCFO — Financial Intelligence Platform</b></summary>
+
+My flagship product: an integrated financial management platform.
+
+- Financial data modelling and standardisation.
+- Java and Spring Boot backend services.
+- Angular-based financial interface.
+- Tally integration through a dedicated connector agent.
+- Asynchronous data processing with Kafka.
+
+**Stack:** Java · Spring Boot · Angular · PostgreSQL · Go · Kafka · MinIO
+
+</details>
+
+<details>
+<summary><b>🎟️ Revent — Event Management Platform</b></summary>
+
+Collaborative engineering contribution across multiple areas.
+
+- Backend service development using Java and Spring Boot.
+- Flutter mobile application development.
+- API development and integrations.
+- Development environment and infrastructure automation.
+
+**Stack:** Java · Spring Boot · Flutter · Dart · PostgreSQL · PowerShell
+
+</details>
+
+<details>
+<summary><b>🤖 Coding Agent — Local AI Coding Assistant</b></summary>
+
+Exploring local-first AI-assisted software development.
+
+- Repository understanding and coding workflows.
+- Agent-based orchestration.
+- Local model integration.
+
+**Stack:** Python · LangGraph · Ollama · FastAPI
+
+[View Repository](https://github.com/dastan08/Coding-Agent)
+
+</details>
+
+<details>
+<summary><b>📁 LAN Share — Local Network File Sharing</b></summary>
+
+A local network file-sharing application.
+
+- Device discovery and QR-based pairing.
+- File transfer progress.
+- Clipboard sharing.
+
+**Stack:** Spring Boot · React
+
+[View Repository](https://github.com/dastan08/Lan-Share)
+
+</details>
+
+<details>
+<summary><b>📊 Gmail Order Parser — Food & Grocery Spend Tracker</b></summary>
+
+A Python automation tool that turns Gmail order confirmations into structured spending reports.
+
+- Order email parsing.
+- SQLite caching.
+- Excel and CSV report generation.
+- Scheduled automation.
+
+**Stack:** Python · Gmail API · SQLite · APScheduler
+
+[View Repository](https://github.com/dastan08/Automated-Expense-Reporting-System)
+
+</details>
+
+
