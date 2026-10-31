@@ -44,14 +44,14 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img
-    src="https://ghstats.dev/api/card?username=dastan08&theme=tokyonight&hide_border=true"
+    src="https://ghstats.dev/api/card?username=dastan08&theme=ocean&hide_border=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=dastan08&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=dastan08&theme=ocean&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
