@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 
 ### Databases & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,oracle,docker,kubernetes,aws,git,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,aws,git,linux&perline=7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 </p>
