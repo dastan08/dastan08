@@ -29,6 +29,24 @@ Building scalable backend systems, intelligent applications, and tools that solv
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 
 
@@ -157,5 +175,9 @@ A Python automation tool that turns Gmail order confirmations into structured sp
 [View Repository](https://github.com/dastan08/Automated-Expense-Reporting-System)
 
 </details>
+
+
+
+
 
 
