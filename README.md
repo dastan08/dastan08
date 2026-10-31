@@ -1,23 +1,8 @@
-## Hi there 👋
-
-<!--
-**dastan08/dastan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Dastan.exe;Java+Backend+Engineer;Full-Stack+Developer;Building+%40+CypherCFO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Dastan.exe;Java+Backend+Engineer;Full-Stack+Developer;Building+%40+CypherCFO" alt="Dastan.exe - Profile Introduction" />
 
 ### Engineering ideas into reality.
 
@@ -48,48 +33,55 @@ Building scalable backend systems, intelligent applications, and tools that solv
   </picture>
 </p>
 
+---
 
 ## ⚡ TECH ARSENAL
 
 <div align="center">
 
+<img
+  src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack-marquee.gif"
+  width="100%"
+  alt="Animated Technology Stack"
+/>
+
+</div>
+
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack-marquee.gif"
-    width="100%"
-    alt="Animated Technology Stack"
-  />
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=java,go,python,ts&perline=4" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend & Mobile</h3>
+      <img src="https://skillicons.dev/icons?i=angular,react,flutter,tailwind&perline=4" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases & Infrastructure</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,aws,git,linux&perline=6" />
+      <br/>
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+        width="42"
+        height="42"
+        alt="Oracle"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
 
-### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,python,ts&perline=6" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,kafka&perline=6" />
-</p>
-
-### 🎨 Frontend & Mobile
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,flutter,tailwind&perline=6" />
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,aws,git,linux&perline=7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-</p>
-
-
-
+---
 
 ## 📊 GitHub Statistics
 
@@ -111,8 +103,7 @@ Building scalable backend systems, intelligent applications, and tools that solv
   <i>Consistently building, learning and contributing.</i>
 </p>
 
-
-
+---
 
 ## 🚀 Featured Projects
 
@@ -190,9 +181,3 @@ A Python automation tool that turns Gmail order confirmations into structured sp
 [View Repository](https://github.com/dastan08/Automated-Expense-Reporting-System)
 
 </details>
-
-
-
-
-
-
