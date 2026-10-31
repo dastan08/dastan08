@@ -53,10 +53,13 @@ Building scalable backend systems, intelligent applications, and tools that solv
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=500&color=70A5FD&center=true&vCenter=true&width=650&lines=JAVA+%E2%80%A2+SPRING+BOOT+%E2%80%A2+HIBERNATE;ANGULAR+%E2%80%A2+FLUTTER+%E2%80%A2+REACT;GO+%E2%80%A2+PYTHON+%E2%80%A2+TYPESCRIPT;POSTGRESQL+%E2%80%A2+KAFKA+%E2%80%A2+DOCKER;AWS+%E2%80%A2+KUBERNETES+%E2%80%A2+LINUX"
-  alt="Animated technology stack"
-/>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack.svg"
+    width="100%"
+    alt="Animated Technology Stack"
+  />
+</div>
 
 </div>
 
