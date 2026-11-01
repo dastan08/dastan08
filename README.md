@@ -71,101 +71,113 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📡 ENGINEERING DASHBOARD
 
 <p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=dastan08&theme=ocean&hide_border=true"
-    alt="GitHub Statistics"
-  />
+  <img src="https://img.shields.io/badge/DEVELOPMENT_STATUS-ACTIVE-3fb950?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND_%26_DISTRIBUTED_SYSTEMS-70a5fd?style=flat-square" />
+  <img src="https://img.shields.io/badge/BUILDING-CYPHER_CFO-bc8cff?style=flat-square" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=dastan08&theme=ocean&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+### GitHub Metrics
+
+<div align="center">
+  <img width="49%" src="https://ghstats.dev/api/card?username=dastan08&theme=ocean&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=dastan08&theme=ocean&hide_border=true" />
+</div>
+
+### Language Distribution
+
+<div align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastan08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+### Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dastan08&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
 <p align="center">
-  <i>Consistently building, learning and contributing.</i>
+  <i>Measure progress. Build consistently. Keep shipping.</i>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  FEATURED PROJECTS
 
-<details open>
-<summary><b>🧮 CypherCFO — Financial Intelligence Platform</b></summary>
-
-My flagship product: an integrated financial management platform.
-
-- Financial data modelling and standardisation.
-- Java and Spring Boot backend services.
-- Angular-based financial interface.
-- Tally integration through a dedicated connector agent.
-- Asynchronous data processing with Kafka.
-
-**Stack:** Java · Spring Boot · Angular · PostgreSQL · Go · Kafka · MinIO
-
-</details>
-
-<details>
-<summary><b>🎟️ Revent — Event Management Platform</b></summary>
-
-Collaborative engineering contribution across multiple areas.
-
-- Backend service development using Java and Spring Boot.
-- Flutter mobile application development.
-- API development and integrations.
-- Development environment and infrastructure automation.
-
-**Stack:** Java · Spring Boot · Flutter · Dart · PostgreSQL · PowerShell
-
-</details>
-
-<details>
-<summary><b>🤖 Coding Agent — Local AI Coding Assistant</b></summary>
-
-Exploring local-first AI-assisted software development.
-
-- Repository understanding and coding workflows.
-- Agent-based orchestration.
-- Local model integration.
-
-**Stack:** Python · LangGraph · Ollama · FastAPI
-
-[View Repository](https://github.com/dastan08/Coding-Agent)
-
-</details>
-
-<details>
-<summary><b>📁 LAN Share — Local Network File Sharing</b></summary>
-
-A local network file-sharing application.
-
-- Device discovery and QR-based pairing.
-- File transfer progress.
-- Clipboard sharing.
-
-**Stack:** Spring Boot · React
-
-[View Repository](https://github.com/dastan08/Lan-Share)
-
-</details>
-
-<details>
-<summary><b>📊 Gmail Order Parser — Food & Grocery Spend Tracker</b></summary>
-
-A Python automation tool that turns Gmail order confirmations into structured spending reports.
-
-- Order email parsing.
-- SQLite caching.
-- Excel and CSV report generation.
-- Scheduled automation.
-
-**Stack:** Python · Gmail API · SQLite · APScheduler
-
-[View Repository](https://github.com/dastan08/Automated-Expense-Reporting-System)
-
-</details>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>CypherCFO</h3>
+        <strong>Financial Intelligence Platform</strong>
+        <p>A financial SaaS platform designed to transform business data into actionable financial insights, with a spreadsheet-like analysis experience.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+        </p>
+        <sub>Flagship project · Financial data modelling · Tally integration</sub>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Revent</h3>
+        <strong>Event Management Platform</strong>
+        <p>A collaborative event management application. Contributed across backend services, mobile development, integrations and infrastructure.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+        <sub>Collaborative contribution · Backend · Mobile · DevOps</sub>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Coding Agent</h3>
+        <strong>AI-Powered Coding Assistant</strong>
+        <p>An experimental coding agent built around local LLMs, with an agent workflow for coding tasks.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+          <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        </p>
+        <a href="https://github.com/dastan08/Coding-Agent">↗ View Repository</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>LAN Share</h3>
+        <strong>Local Network File Sharing</strong>
+        <p>A local network file-sharing application built with a Spring Boot backend and React frontend.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        </p>
+        <a href="https://github.com/dastan08/Lan-Share">↗ View Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Gmail Order Parser</h3>
+        <strong>Food & Grocery Spend Tracker</strong>
+        <p>Parses order emails and automates expense tracking using scheduled processing and a local database.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gmail_API-D14836?style=flat-square&logo=gmail&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        </p>
+        <a href="https://github.com/dastan08/Automated-Expense-Reporting-System">↗ View Repository</a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>⚙️ More in Progress</h3>
+        <strong>Building, experimenting, learning.</strong>
+        <p>Exploring backend engineering, distributed systems, developer tooling and practical AI applications.</p>
+        <a href="https://github.com/dastan08?tab=repositories">↗ Explore All Repositories</a>
+      </td>
+    </tr>
+  </table>
+</div>
