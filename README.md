@@ -23,10 +23,6 @@ Building scalable backend systems, intelligent applications, and tools that solv
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
