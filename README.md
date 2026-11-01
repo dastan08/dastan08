@@ -6,6 +6,8 @@
   />
 </div>
 
+### GitHub Metrics
+
 <div align="center">
   <img
     width="100%"
