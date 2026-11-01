@@ -1,0 +1,60 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="310" viewBox="0 0 900 310">
+
+  <rect width="900" height="310" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="308" rx="14"
+        fill="none" stroke="#30363d"/>
+
+  <!-- Terminal title bar -->
+  <path d="M14 1 H886 Q899 1 899 14 V48 H1 V14 Q1 1 14 1"
+        fill="#161b22"/>
+
+  <circle cx="25" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="47" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="69" cy="24" r="6" fill="#27c93f"/>
+
+  <text x="450" y="29" text-anchor="middle"
+        fill="#8b949e" font-family="monospace"
+        font-size="13">dastan@github: ~</text>
+
+  <!-- Terminal content -->
+  <g font-family="'Roboto Mono', monospace" font-size="16">
+
+    <text x="30" y="88" fill="#70a5fd">
+      dastan@github:~$ whoami
+    </text>
+    <text x="30" y="116" fill="#e6edf3">
+      Java Backend Engineer | Full-Stack Developer
+    </text>
+
+    <text x="30" y="157" fill="#70a5fd">
+      dastan@github:~$ cat interests.txt
+    </text>
+    <text x="30" y="185" fill="#c9d1d9">
+      > Distributed Systems
+    </text>
+    <text x="30" y="211" fill="#c9d1d9">
+      > Financial Technology
+    </text>
+    <text x="30" y="237" fill="#c9d1d9">
+      > AI Agents &amp; Automation
+    </text>
+    <text x="30" y="263" fill="#c9d1d9">
+      > Cloud Infrastructure
+    </text>
+
+    <text x="30" y="291" fill="#70a5fd">
+      dastan@github:~$
+    </text>
+
+    <!-- Blinking cursor -->
+    <rect x="213" y="276" width="10" height="19" fill="#70a5fd">
+      <animate attributeName="opacity"
+               values="1;1;0;0"
+               keyTimes="0;0.5;0.51;1"
+               dur="1s"
+               repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
