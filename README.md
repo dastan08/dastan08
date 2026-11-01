@@ -1,4 +1,17 @@
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Dastan.exe;Java+Backend+Engineer;Full-Stack+Developer;Building+%40+CypherCFO" alt="Dastan.exe" />
+
+### Engineering ideas into reality.
+
+Building scalable backend systems, intelligent applications, and tools that solve real problems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-dastan08-181717?style=flat-square&logo=github)](https://github.com/dastan08)
+
+</div>
+
+
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/dastan08/dastan08/main/terminal.svg"
     width="100%"
