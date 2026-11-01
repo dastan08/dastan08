@@ -6,16 +6,6 @@
   />
 </div>
 
-### GitHub Metrics
-
-<div align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/dastan08/dastan08/main/profile/metrics.svg"
-    alt="GitHub Engineering Metrics"
-  />
-</div>
-
 ##  TECH ARSENAL
 
 <div align="center">
@@ -67,10 +57,12 @@
 </p>
 
 ### GitHub Metrics
-
 <div align="center">
-  <img width="49%" src="https://ghstats.dev/api/card?username=dastan08&theme=ocean&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=dastan08&theme=ocean&hide_border=true" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/profile/metrics.svg"
+    alt="GitHub Engineering Metrics"
+  />
 </div>
 
 ### Language Distribution
