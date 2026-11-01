@@ -8,27 +8,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
 ##  TECH ARSENAL
 
 <div align="center">
@@ -89,13 +68,21 @@
 ### Language Distribution
 
 <div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastan08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img
+    width="70%"
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/profile/langs.svg"
+    alt="GitHub Language Distribution"
+  />
 </div>
 
 ### Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dastan08&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/dastan08/dastan08/output/github-snake-dark.svg"
+    alt="GitHub Contribution Activity"
+  />
 </div>
 
 <p align="center">
