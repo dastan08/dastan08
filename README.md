@@ -6,7 +6,13 @@
   />
 </div>
 
-
+<div align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/profile/metrics.svg"
+    alt="GitHub Engineering Metrics"
+  />
+</div>
 
 ##  TECH ARSENAL
 
