@@ -1,15 +1,9 @@
-# Hi there 👋
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Dastan.exe;Java+Backend+Engineer;Full-Stack+Developer;Building+%40+CypherCFO" alt="Dastan.exe - Profile Introduction" />
-
-### Engineering ideas into reality.
-
-Building scalable backend systems, intelligent applications, and tools that solve real problems.
-
-[![GitHub](https://img.shields.io/badge/GitHub-dastan08-181717?style=flat-square&logo=github)](https://github.com/dastan08)
-
+  <img
+    src="https://raw.githubusercontent.com/dastan08/dastan08/main/terminal.svg"
+    width="100%"
+    alt="Dastan developer terminal"
+  />
 </div>
 
 ---
@@ -35,15 +29,9 @@ Building scalable backend systems, intelligent applications, and tools that solv
 
 ---
 
-## ⚡ TECH ARSENAL
+##  TECH ARSENAL
 
 <div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/dastan08/dastan08/main/tech-stack-marquee.gif"
-  width="100%"
-  alt="Animated Technology Stack"
-/>
 
 </div>
 
